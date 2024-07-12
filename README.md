@@ -1,4 +1,9 @@
-# Concurrency and Parallelism 2021-22
+# Concurrency and Parallelism 
+
+This project is from the Concurrency and Parallelism course. It is written in the C programming language and utilizes OpenMP for parallelizing a fire extinguishing agent.
+
+The report available summarizes the work done on this project.
+
 
 ### Agent-based Simulation of Fire Extinguishing
 
